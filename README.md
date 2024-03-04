@@ -17,10 +17,14 @@ En este proyecto, el algoritmo de Dijkstra se implementa en Python utilizando la
 5. Haz clic en el botón "Search" para iniciar el algoritmo de Dijkstra y ver el camino más corto trazado en azul.
 
 ## Ejemplo de Resultados
-![corrida2 2](https://github.com/LuisRosado/Dijkstra/assets/140114139/80e69e12-d43b-45b9-a883-b106c9c74381)
+
+Ejemplo 1:
 ![corrida1 1](https://github.com/LuisRosado/Dijkstra/assets/140114139/04348755-43d4-4027-8653-b428733f27bf)
 ![corrida1 2](https://github.com/LuisRosado/Dijkstra/assets/140114139/7b82e8bf-6b66-4566-aee8-7e93ed7cfc02)
+
+Ejemplo 2:
 ![corrida2 1](https://github.com/LuisRosado/Dijkstra/assets/140114139/48100287-2d3f-4310-8c40-be086a6e3c32)
+![corrida2 2](https://github.com/LuisRosado/Dijkstra/assets/140114139/80e69e12-d43b-45b9-a883-b106c9c74381)
 
 
 ## Contribuciones
